@@ -1,0 +1,20 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    border: solid 2px;
+    border-radius: 5px;
+    color: cadetblue;
+}
+.innerbox{
+    padding: 5px;
+    border: solid 2px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
